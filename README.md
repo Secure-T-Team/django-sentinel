@@ -1,5 +1,3 @@
-[![Travis Status](https://travis-ci.org/lamoda/django-sentinel.svg?style=flat)](https://travis-ci.org/lamoda/django-sentinel)
-
 # django-sentinel
 Plugin for django-redis that supports Redis Sentinel. This is fork of [KabbageInc/django-redis-sentinel](https://github.com/KabbageInc/django-redis-sentinel) deprecated project.
 
